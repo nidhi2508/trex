@@ -4,7 +4,7 @@ var gameState = PLAY;
 
 var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
-
+//trying to edit
 var cloudsGroup, cloudImage;
 var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obstacle6;
 
